@@ -132,3 +132,10 @@ img {
 		max-width: 1150px;
 	}
 }
+
+/* Manny chat */
+.mcwidget-embed {
+	position: absolute;
+	bottom	: 20px;
+	right	: 20px;
+}
